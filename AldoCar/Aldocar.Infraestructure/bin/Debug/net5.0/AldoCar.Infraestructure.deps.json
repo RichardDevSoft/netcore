@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AldoCar.Infraestructure/1.0.0": {
+        "dependencies": {
+          "AldoCar.ApplicationCore": "1.0.0"
+        },
+        "runtime": {
+          "AldoCar.Infraestructure.dll": {}
+        }
+      },
+      "AldoCar.ApplicationCore/1.0.0": {
+        "runtime": {
+          "AldoCar.ApplicationCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AldoCar.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AldoCar.ApplicationCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

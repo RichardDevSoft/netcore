@@ -1,0 +1,16 @@
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\bin\Debug\net5.0\AldoCar.Infraestructure.deps.json
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\bin\Debug\net5.0\AldoCar.Infraestructure.dll
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\bin\Debug\net5.0\AldoCar.Infraestructure.pdb
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\obj\Debug\net5.0\AldoCar.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\obj\Debug\net5.0\AldoCar.Infraestructure.AssemblyInfoInputs.cache
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\obj\Debug\net5.0\AldoCar.Infraestructure.AssemblyInfo.cs
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\obj\Debug\net5.0\AldoCar.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\obj\Debug\net5.0\AldoCar.Infraestructure.sourcelink.json
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\obj\Debug\net5.0\AldoCar.Infraestructure.dll
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\obj\Debug\net5.0\refint\AldoCar.Infraestructure.dll
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\obj\Debug\net5.0\AldoCar.Infraestructure.pdb
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\obj\Debug\net5.0\ref\AldoCar.Infraestructure.dll
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\bin\Debug\net5.0\AldoCar.ApplicationCore.dll
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\bin\Debug\net5.0\AldoCar.ApplicationCore.pdb
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\obj\Debug\net5.0\AldoCar.Infraestructure.csproj.AssemblyReference.cache
+D:\Repositorios\NetCore\AldoCar\Aldocar.Infraestructure\obj\Debug\net5.0\AldoCar.Infraestructure.csproj.CopyComplete

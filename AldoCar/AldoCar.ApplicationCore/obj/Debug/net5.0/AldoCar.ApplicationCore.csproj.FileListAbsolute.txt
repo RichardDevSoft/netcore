@@ -1,0 +1,12 @@
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\obj\Debug\net5.0\AldoCar.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\obj\Debug\net5.0\AldoCar.ApplicationCore.AssemblyInfoInputs.cache
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\obj\Debug\net5.0\AldoCar.ApplicationCore.AssemblyInfo.cs
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\obj\Debug\net5.0\AldoCar.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\obj\Debug\net5.0\AldoCar.ApplicationCore.sourcelink.json
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\bin\Debug\net5.0\AldoCar.ApplicationCore.deps.json
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\bin\Debug\net5.0\AldoCar.ApplicationCore.dll
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\bin\Debug\net5.0\AldoCar.ApplicationCore.pdb
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\obj\Debug\net5.0\AldoCar.ApplicationCore.dll
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\obj\Debug\net5.0\refint\AldoCar.ApplicationCore.dll
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\obj\Debug\net5.0\AldoCar.ApplicationCore.pdb
+D:\Repositorios\NetCore\AldoCar\AldoCar.ApplicationCore\obj\Debug\net5.0\ref\AldoCar.ApplicationCore.dll

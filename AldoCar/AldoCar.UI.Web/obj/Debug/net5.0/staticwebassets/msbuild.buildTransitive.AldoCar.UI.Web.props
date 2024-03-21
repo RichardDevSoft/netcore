@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AldoCar.UI.Web.props" />
+</Project>
